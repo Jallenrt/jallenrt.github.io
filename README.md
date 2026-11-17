@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
 <meta charset="utf-8">
@@ -37,7 +37,7 @@
       <div>
         <h2>Flip 7 Strategy Lab</h2>
         <p>Play against AI opponents, or run thousands of simulated games to see which strategy wins.</p>
-        <span class="tag">1 to 8 players · vs AI</span>
+        <span class="tag">3 to 8 seats · play vs AI</span>
       </div>
       <div class="go" aria-hidden="true">›</div>
     </a>
