@@ -41,24 +41,25 @@
       </div>
       <div class="go" aria-hidden="true">›</div>
     </a>
-#    <a class="game" href="three-dragon-ante/">
-#      <div class="icon" aria-hidden="true">3</div>
-#      <div>
-#        <h2>Three Dragon Ante</h2>
-#        <p>The dragon-themed betting and card game.</p>
-#        <span class="tag">Card game</span>
-#      </div>
-#      <div class="go" aria-hidden="true">›</div>
-#    </a>
-#    <a class="game" href="giants-war/">
-#      <div class="icon" aria-hidden="true">G</div>
-#      <div>
-#        <h2>Three Dragon Ante: Giants War</h2>
-#        <p>The Giants War variant.</p>
-#        <span class="tag">Card game</span>
-#      </div>
-#      <div class="go" aria-hidden="true">›</div>
-#    </a>
+<!--   <a class="game" href="three-dragon-ante/">
+      <div class="icon" aria-hidden="true">3</div>
+      <div>
+        <h2>Three Dragon Ante</h2>
+        <p>The dragon-themed betting and card game.</p>
+        <span class="tag">Card game</span>
+      </div>
+      <div class="go" aria-hidden="true">›</div>
+    </a>
+    <a class="game" href="giants-war/">
+      <div class="icon" aria-hidden="true">G</div>
+      <div>
+        <h2>Three Dragon Ante: Giants War</h2>
+        <p>The Giants War variant.</p>
+        <span class="tag">Card game</span>
+      </div>
+      <div class="go" aria-hidden="true">›</div>
+    </a>
+-->
   </nav>
   <footer>Games run in your browser. Saved settings stay on your device.</footer>
 </main>
